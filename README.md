@@ -25,8 +25,11 @@ Link：https://www.kaggle.com/datasets/aashita/nyt-comments
 The analysis is conducted using Python, with the Jupyter Notebook Topic_modeling.ipynb containing all the code and commentary necessary to perform the topic modeling and sentiment analysis. Key components of the code include:
 
 Data Preprocessing: Cleaning and preparing text data for analysis.
+
 Topic Modeling: Using Nonnegative Matrix Factorization (NMF) to identify prevalent topics within the comments.
+
 Sentiment Analysis: Calculating sentiment scores to determine the overall sentiment of comments associated with each topic.
+
 Visualization: Generating visualizations to display the trends and results of the topic modeling and sentiment analysis.
 
 ## How to Use
@@ -34,10 +37,14 @@ Visualization: Generating visualizations to display the trends and results of th
 To run this project:
 
 Clone the repository to your local machine.
+
 Ensure that you have Python installed, along with the libraries numpy, pandas, matplotlib, scikit-learn, and nltk.
+
 Open the Topic_modeling.ipynb notebook in a Jupyter environment.
+
 Execute the cells sequentially to observe the analysis process and results.
-Dependencies
+
+## Dependencies
 
 Python 3.8+
 NumPy
@@ -51,4 +58,4 @@ This project is maintained by [Ruiqi Zhou], and contributions to the code or ana
 
 License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License 
