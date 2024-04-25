@@ -13,10 +13,15 @@ The purpose of this analysis is to uncover how topics and sentiment in public co
 The dataset comprises comments extracted from The New York Times articles, spanning from April 2017 to April 2018. Each comment entry includes the following information:
 
 Comment ID: A unique identifier for each comment.
+
 Article ID: Identifier linking the comment to a specific article.
+
 User ID: Identifier for the user who made the comment.
+
 Comment Text: The text content of the comment.
+
 Timestamp: The date and time when the comment was posted.
+
 
 Link：https://www.kaggle.com/datasets/aashita/nyt-comments
 
