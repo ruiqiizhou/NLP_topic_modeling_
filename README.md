@@ -24,6 +24,7 @@ Timestamp: The date and time when the comment was posted.
 
 
 Link：https://www.kaggle.com/datasets/aashita/nyt-comments
+Since dataset is too large to upload to github, please check this link to download the date.
 
 ## Code Description
 
